@@ -1,0 +1,29 @@
+{
+  "name": "indian-cities-towns",
+  "version": "1.0.0",
+  "description": "Indian cities and towns list - State Wise",
+  "main": "./src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dineshmaxi/india-cities-towns.git"
+  },
+  "keywords": [
+    "indian",
+    "india",
+    "states",
+    "cities",
+    "state",
+    "city",
+    "towns",
+    "town"
+  ],
+  "author": "Dinesh",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dineshmaxi/india-cities-towns/issues"
+  },
+  "homepage": "https://github.com/dineshmaxi/india-cities-towns/#readme"
+}
